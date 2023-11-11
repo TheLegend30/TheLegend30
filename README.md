@@ -1,10 +1,10 @@
 <code>🎓 Student: LPNU</code>
 
-<code>👷 Speciality: Cyber security</code>
+<code>👷 Speciality: Web, Cyber security</code>
 
 <code>🧻 Current [project](https://github.com/TheLegend30/Powerslave)</code><br>
 
-<code>🧑‍💻 Languages: Java, C#</code>
+<code>🧑‍💻 Languages: JS</code>
 
 <code>💬 telegram: [@Overlord2077](https://telegram.me/Overlord2077)</code>
 
