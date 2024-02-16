@@ -1,6 +1,6 @@
 <code>🎓 Student: LPNU</code>
 
-<code>👷 Speciality: Web, Cyber security</code>
+<code>👷 Speciality: Web, Cybersecurity</code>
 
 <code>🧻 Current [project](https://github.com/TheLegend30/ZenithCare)</code><br>
 
