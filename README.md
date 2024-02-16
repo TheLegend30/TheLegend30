@@ -1,4 +1,4 @@
-<code>🎓 Student: LPNU</code>
+<code>🎓 Student: Lviv Polytechnic National University</code>
 
 <code>👷 Speciality: Web, Cybersecurity</code>
 
