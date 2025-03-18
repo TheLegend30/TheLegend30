@@ -4,7 +4,7 @@
 
 <code>🧻 Current [project](https://github.com/TheLegend30/ZenithCare)</code><br>
 
-<code>🧑‍💻 Languages: PHP, JS</code>
+<code>🧑‍💻 Languages: Java, PHP, JS</code>
 
 <code>💬 telegram: [@oleh_liubichenko](https://telegram.me/oleh_liubichenko)</code>
 
